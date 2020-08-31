@@ -2,36 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93b1148e-5cc9-41dd-8b99-ef918e1aa7c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/minesweaper-ts/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minesweaper-ts/src/components/App/App.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minesweaper-ts/src/components/App/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minesweaper-ts/src/components/Button/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minesweaper-ts/src/components/Button/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minesweaper-ts/src/components/NumberDisplay/NumberDisplay.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minesweaper-ts/src/components/NumberDisplay/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minesweaper-ts/src/constants/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minesweaper-ts/src/styles/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minesweaper-ts/src/types/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minesweaper-ts/src/utils/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minesweaper-ts" beforeDir="false" afterPath="$PROJECT_DIR$/minesweaper-ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minesweaper-ts/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/minesweaper-ts/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minesweaper-ts/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/minesweaper-ts/src/App.test.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/minesweaper-ts/src/App.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/minesweaper-ts/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/minesweaper-ts/src/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minesweaper-ts/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/minesweaper-ts/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minesweaper-ts/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/minesweaper-ts/src/react-app-env.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/minesweaper-ts/src/serviceWorker.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/minesweaper-ts/src/setupTests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="website-clone" />
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/minesweaper-ts" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gcksfvdWEKSFRhk50Cs2cglhDE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -95,6 +77,8 @@
       <workItem from="1598422026046" duration="5046000" />
       <workItem from="1598427302363" duration="1039000" />
       <workItem from="1598782270309" duration="4011000" />
+      <workItem from="1598841273092" duration="10448000" />
+      <workItem from="1598876158888" duration="160000" />
     </task>
     <servers />
   </component>
@@ -110,36 +94,43 @@
       <screen x="721" y="-1177" width="1920" height="1177" />
     </state>
     <state x="1369" y="-854" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877/721.-1177.1920.1177/-1199.-1177.1920.1126@721.-1177.1920.1177" timestamp="1598421991845" />
-    <state width="1398" height="375" key="GridCell.Tab.0.bottom" timestamp="1598791421883">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1878" height="167" key="GridCell.Tab.0.bottom" timestamp="1598856786034">
+      <screen x="799" y="-1200" width="1920" height="1200" />
     </state>
+    <state width="1878" height="167" key="GridCell.Tab.0.bottom/0.0.1440.900/-1121.-1200.1920.1200/799.-1200.1920.1200@799.-1200.1920.1200" timestamp="1598856786034" />
     <state width="1398" height="375" key="GridCell.Tab.0.bottom/0.0.1440.900/-1600.0.1600.900@0.0.1440.900" timestamp="1598791421883" />
     <state width="1398" height="329" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1598480509648" />
     <state width="939" height="329" key="GridCell.Tab.0.bottom/0.23.1440.877/721.-1177.1920.1177/-1199.-1177.1920.1126@721.-1177.1920.1177" timestamp="1598422004721" />
-    <state width="1398" height="375" key="GridCell.Tab.0.center" timestamp="1598791421882">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1878" height="167" key="GridCell.Tab.0.center" timestamp="1598856786032">
+      <screen x="799" y="-1200" width="1920" height="1200" />
     </state>
+    <state width="1878" height="167" key="GridCell.Tab.0.center/0.0.1440.900/-1121.-1200.1920.1200/799.-1200.1920.1200@799.-1200.1920.1200" timestamp="1598856786032" />
     <state width="1398" height="375" key="GridCell.Tab.0.center/0.0.1440.900/-1600.0.1600.900@0.0.1440.900" timestamp="1598791421882" />
     <state width="1398" height="329" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1598480509647" />
     <state width="939" height="329" key="GridCell.Tab.0.center/0.23.1440.877/721.-1177.1920.1177/-1199.-1177.1920.1126@721.-1177.1920.1177" timestamp="1598422004720" />
-    <state width="1398" height="375" key="GridCell.Tab.0.left" timestamp="1598791421881">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1878" height="167" key="GridCell.Tab.0.left" timestamp="1598856786031">
+      <screen x="799" y="-1200" width="1920" height="1200" />
     </state>
+    <state width="1878" height="167" key="GridCell.Tab.0.left/0.0.1440.900/-1121.-1200.1920.1200/799.-1200.1920.1200@799.-1200.1920.1200" timestamp="1598856786031" />
     <state width="1398" height="375" key="GridCell.Tab.0.left/0.0.1440.900/-1600.0.1600.900@0.0.1440.900" timestamp="1598791421881" />
     <state width="1398" height="329" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1598480509647" />
     <state width="939" height="329" key="GridCell.Tab.0.left/0.23.1440.877/721.-1177.1920.1177/-1199.-1177.1920.1126@721.-1177.1920.1177" timestamp="1598422004720" />
-    <state width="1398" height="375" key="GridCell.Tab.0.right" timestamp="1598791421882">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1878" height="167" key="GridCell.Tab.0.right" timestamp="1598856786033">
+      <screen x="799" y="-1200" width="1920" height="1200" />
     </state>
+    <state width="1878" height="167" key="GridCell.Tab.0.right/0.0.1440.900/-1121.-1200.1920.1200/799.-1200.1920.1200@799.-1200.1920.1200" timestamp="1598856786033" />
     <state width="1398" height="375" key="GridCell.Tab.0.right/0.0.1440.900/-1600.0.1600.900@0.0.1440.900" timestamp="1598791421882" />
     <state width="1398" height="329" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1598480509648" />
     <state width="939" height="329" key="GridCell.Tab.0.right/0.23.1440.877/721.-1177.1920.1177/-1199.-1177.1920.1126@721.-1177.1920.1177" timestamp="1598422004721" />
-    <state width="500" height="424" key="SwitcherDM" timestamp="1598789579092">
+    <state width="501" height="425" key="SwitcherDM" timestamp="1598876383682">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="500" height="400" key="SwitcherDM/0.0.1440.850/-1600.23.1600.877@0.0.1440.850" timestamp="1598789532556" />
+    <state width="667" height="566" key="SwitcherDM/0.0.1440.900/-1121.-1200.1920.1200/799.-1200.1920.1200@799.-1200.1920.1200" timestamp="1598853571639" />
     <state width="500" height="424" key="SwitcherDM/0.0.1440.900/-1600.0.1600.900@0.0.1440.900" timestamp="1598789579092" />
     <state width="500" height="424" key="SwitcherDM/0.0.1440.900/-1600.23.1600.877@0.0.1440.900" timestamp="1598789102086" />
+    <state width="501" height="425" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1598876383682" />
+    <state width="667" height="566" key="SwitcherDM/0.23.1440.827/-1121.-1177.1920.1177/799.-1200.1920.1200@799.-1200.1920.1200" timestamp="1598850372781" />
     <state width="500" height="445" key="SwitcherDM/0.23.1440.877/721.-1177.1920.1177/-1199.-1177.1920.1126@721.-1177.1920.1177" timestamp="1598427728802" />
     <state x="1374" y="-756" key="com.intellij.ide.util.TipDialog" timestamp="1598422026030">
       <screen x="721" y="-1177" width="1920" height="1177" />
@@ -149,9 +140,11 @@
       <screen x="721" y="-1177" width="1920" height="1177" />
     </state>
     <state x="821" y="-1077" width="1720" height="977" key="dock-window-1/0.23.1440.877/721.-1177.1920.1177/-1199.-1177.1920.1126@721.-1177.1920.1177" timestamp="1598422351233" />
-    <state x="1359" y="-832" width="643" height="486" key="find.popup" timestamp="1598422304263">
-      <screen x="721" y="-1177" width="1920" height="1177" />
+    <state x="1437" y="-848" width="643" height="496" key="find.popup" timestamp="1598853776433">
+      <screen x="799" y="-1200" width="1920" height="1200" />
     </state>
+    <state x="1437" y="-848" width="643" height="496" key="find.popup/0.0.1440.900/-1121.-1200.1920.1200/799.-1200.1920.1200@799.-1200.1920.1200" timestamp="1598853776433" />
+    <state x="1437" y="-848" width="643" height="496" key="find.popup/0.23.1440.827/-1121.-1177.1920.1177/799.-1200.1920.1200@799.-1200.1920.1200" timestamp="1598841647585" />
     <state x="1359" y="-832" width="643" height="486" key="find.popup/0.23.1440.877/721.-1177.1920.1177/-1199.-1177.1920.1126@721.-1177.1920.1177" timestamp="1598422304263" />
   </component>
 </project>

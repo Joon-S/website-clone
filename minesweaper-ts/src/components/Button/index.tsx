@@ -8,9 +8,12 @@ interface ButtonProps {
     col: number;
     state: CellState;
     value: CellValue;
+    red?: boolean;
+    onClick(rowParam: number, colParam: number): (...args: any[]) => void;
+    onContext(rowParam: number, colParam: number): (...args: any[]) => void;
 }
 
-const Button = ({ row, col, state, value }: ButtonProps) => {
+const Button = ({ row, col, onContext, onClick, state, value, red }: ButtonProps) => {
     const renderContent = (): React.ReactNode => {
         if (state === CellState.visible) {
             if (value === CellValue.bomb) {
@@ -35,7 +38,10 @@ const Button = ({ row, col, state, value }: ButtonProps) => {
         return null;
     }
     return (
-        <div className={`Button ${state === CellState.visible ? "visible" : ""} value-${value}`}>
+        <div className={`Button ${state === CellState.visible ? "visible" : ""} value-${value} ${red ? "red" : ""}`}
+             onClick={onClick(row, col)}
+             onContextMenu={onContext(row, col)}
+        >
             {renderContent()}
         </div>)
 }
