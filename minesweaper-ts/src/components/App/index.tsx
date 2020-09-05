@@ -112,7 +112,7 @@ const App = () => {
                     }
                 }
                 return cell;
-            }))
+            }));
             setHasWon(true);
         }
 
